@@ -1,4 +1,4 @@
-- Hello, I’m Dirk.
+- Hello, I’m Dirk. (Will also go by Toby, Lloyd, Michael, or Hal.)
 - I am an artist.
 
 <!---
